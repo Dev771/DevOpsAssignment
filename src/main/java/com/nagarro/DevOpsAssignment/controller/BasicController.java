@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.nagarro.devOpsAssignment.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
